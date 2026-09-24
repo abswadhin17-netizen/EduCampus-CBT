@@ -2,7 +2,7 @@
   "name": "educampus-cbt",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://abswadhin17-netizen.github.io/educampus-cbt",
+  "homepage": "https://abswadhin17-netizen.github.io/EduCampus-CBT",
   "dependencies": {
     "firebase": "^10.0.0",
     "react": "^18.2.0",
